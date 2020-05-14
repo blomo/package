@@ -1,0 +1,10 @@
+pip install PyQt5-5.14.2-5.14.2-cp35.cp36.cp37.cp38-none-win32.whl
+pip install PyQt5-5.14.2-5.14.2-cp35.cp36.cp37.cp38-none-win_amd64.whl
+pip install PyQt5_sip-12.7.2-cp37-cp37m-win32.whl
+pip install PyQt5_sip-12.7.2-cp37-cp37m-win_amd64.whl
+pip install PyQt5_sip-12.7.2-cp38-cp38-win32.whl
+pip install PyQt5_sip-12.7.2-cp38-cp38-win_amd64.whl
+pip install PyYAML-5.3.1-cp37-cp37m-win32.whl
+pip install PyYAML-5.3.1-cp37-cp37m-win_amd64.whl
+pip install PyYAML-5.3.1-cp38-cp38-win32.whl
+pip install PyYAML-5.3.1-cp38-cp38-win_amd64.whl
